@@ -20,7 +20,7 @@
 
 .gradiente {
   background-image: linear-gradient(to left, #1a6da5, #64a3d6);
-  /* -webkit-background-clip: text; */
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: blue;
 }
