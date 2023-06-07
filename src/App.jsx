@@ -1,6 +1,6 @@
 import "./App.css";
 import Section from "./assets/components/section";
-import Aside from "./assets/components/Aside";
+import Aside from "./assets/components/aside";
 
 function App() {
   return (
